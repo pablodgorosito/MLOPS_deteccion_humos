@@ -1,0 +1,6 @@
+POSTGRES_USER=mlops_user
+POSTGRES_PASSWORD=aluremisiones_secret_pass
+POSTGRES_DB=mlops_db
+
+MINIO_ROOT_USER=admin_aluar
+MINIO_ROOT_PASSWORD=supersecretminiopass
